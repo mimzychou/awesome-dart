@@ -130,7 +130,7 @@ want to contribute, please read [contribution](/CONTRIBUTING.md). Thank you !
 * [bagl](https://github.com/RSSchermer/bagl.dart) - BaGL is a low-level abstraction on top of WebGL. It aims to provide a simpler, safer and more declarative drawing alternative to plain WebGL.[<img src="https://travis-ci.org/RSSchermer/bagl.dart.svg?branch=master">](https://travis-ci.org/RSSchermer/bagl.dart)
 * [cairodart](https://github.com/alexander-dembinsky/cairodart) - Cairo bindings for Dart.[<img src="https://travis-ci.org/alexander-dembinsky/cairodart.svg?branch=master">](https://travis-ci.org/alexander-dembinsky/cairodart)
 * [ThreeDart](https://github.com/Grant-Nelson/ThreeDart) - 3D graphical rendering tool for websites writing in Dart.
-* [dartgl](https://pub.dartlang.org/packages/dartgl)
+* [dartgl](https://pub.dartlang.org/packages/dartgl) - It is a native extension for Dart to use OpenGL in desktop applications. 
 
 #### Image
 
