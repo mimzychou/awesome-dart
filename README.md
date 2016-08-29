@@ -15,8 +15,10 @@ want to contribute, please read [contribution](/CONTRIBUTING.md). Thank you !
   - [Command line](#command-line)
   - [Crypto](#crypto)
   - [Database](#database)
+  - [Desktop](#desktop)
   - [Encoding](#encoding)
   - [Game](#game)
+  - [Github](#github)
   - [Graphics](#graphics)
   - [Image](#image)
   - [Low Level](#low-level )
@@ -44,6 +46,7 @@ want to contribute, please read [contribution](/CONTRIBUTING.md). Thank you !
 * [gulp-dart](https://github.com/agudulin/gulp-dart) - A gulp plugin for compiling Dart code to JavaScript using dart2js.[<img src="https://travis-ci.org/agudulin/gulp-dart.svg?branch=master">](https://travis-ci.org/agudulin/gulp-dart)
 * [dev_compiler](https://github.com/dart-lang/dev_compiler) - Dart to JavaScript compiler designed to create idiomatic, readable JavaScript output.[<img src="https://travis-ci.org/dart-lang/dev_compiler.svg?branch=master">](https://travis-ci.org/dart-lang/dev_compiler)
 * [watcher](https://github.com/dart-lang/watcher) - A file system watcher library for Dart.[<img src="https://travis-ci.org/dart-lang/watcher.svg?branch=master">](https://travis-ci.org/dart-lang/watcher)
+* [dart2js](https://github.com/DirectMyFile/dart-compiler) - dart2js (from the Dart Git Repository).[<img src="https://travis-ci.org/DirectMyFile/dart-compiler.svg?branch=master">](https://travis-ci.org/DirectMyFile/dart-compiler)
 * [dart2js_info](https://github.com/dart-lang/dart2js_info)- Model of the data produced by dart2js with --dump-info, and tools that process the information.[<img src="https://travis-ci.org/dart-lang/dart2js_info.svg?branch=master">](https://travis-ci.org/dart-lang/dart2js_info)
 * [linter](https://github.com/dart-lang/linter) - Style linter for Dart.[<img src="https://travis-ci.org/dart-lang/linter.svg?branch=master">](https://travis-ci.org/dart-lang/linter)
 * [intl](https://github.com/dart-lang/intl) - Internationalization and localization support.[<img src="https://travis-ci.org/dart-lang/intl.svg?branch=master">](https://travis-ci.org/dart-lang/intl)
@@ -99,6 +102,7 @@ want to contribute, please read [contribution](/CONTRIBUTING.md). Thank you !
 
 #### Command line
 
+* [console](https://github.com/DirectMyFile/console.dart) - Console Library.[<img src="https://travis-ci.org/DirectMyFile/console.dart.svg?branch=master">](https://travis-ci.org/DirectMyFile/console.dart)
 * [tuneup](https://github.com/google/tuneup.dart) - A command-line tool to manipulate and inspect your Dart projects.
 [<img src="https://travis-ci.org/google/tuneup.dart.svg?branch=master">](https://travis-ci.org/google/tuneup.dart)
 
@@ -113,9 +117,15 @@ want to contribute, please read [contribution](/CONTRIBUTING.md). Thank you !
 * [sqljocky](https://github.com/jamesots/sqljocky) - MySQL Connector for Dart.
 * [PostgreSQL](https://github.com/xxgreg/dart_postgresql) - Dart Postgresql database library.[<img src="https://travis-ci.org/xxgreg/dart_postgresql.svg?branch=master">](https://travis-ci.org/xxgreg/dart_postgresql)
 
+#### Desktop
+
+* [macOS](https://github.com/DirectMyFile/macOS.dart) - macOS Package for Dart.[<img src="https://travis-ci.org/DirectMyFile/macOS.dart.svg?branch=master">](https://travis-ci.org/DirectMyFile/macOS.dart)
+
 #### Encoding
 
 * [Archive](https://pub.dartlang.org/packages/archive) - Dart library to encode and decode various archive and compression formats, such as Zip and Tar.
+* **MsgPack**
+  * [msgpack](https://github.com/DirectMyFile/msgpack.dart) - MsgPack for Dart.[<img src="https://travis-ci.org/DirectMyFile/msgpack.dart.svg?branch=master">](https://travis-ci.org/DirectMyFile/msgpack.dart)
 
 #### Game
 
@@ -123,6 +133,10 @@ want to contribute, please read [contribution](/CONTRIBUTING.md). Thank you !
 * [DartRocket](https://github.com/StrykerKKD/dartrocket) - HTML5 game framework made with Dart and StageXL.
 * [Pixi Dart](https://github.com/FedeOmoto/pixi) - A port of the pixi.js rendering engine.
 * [Ranger](https://github.com/wdevore/Ranger-Dart) - Game engine written in Dart.
+
+#### Github
+
+* [github](https://github.com/DirectMyFile/github.dart) - GitHub Client Library for Dart.[<img src="https://travis-ci.org/DirectMyFile/github.dart.svg?branch=master">](https://travis-ci.org/DirectMyFile/github.dart)
 
 #### Graphics
 
@@ -187,8 +201,6 @@ want to contribute, please read [contribution](/CONTRIBUTING.md). Thank you !
 * [collection](https://github.com/dart-lang/collection) - contains a number of separate libraries with utility functions and classes that makes working with collections easier.[<img src="https://travis-ci.org/dart-lang/collection.svg?branch=master">](https://travis-ci.org/dart-lang/collection)
 * [quiver-dart](https://github.com/google/quiver-dart) - A set of utility libraries for Dart.[<img src="https://travis-ci.org/google/quiver-dart.svg?branch=master">](https://travis-ci.org/google/quiver-dart)
 * [reflectable](https://github.com/dart-lang/reflectable) - Reflectable is a Dart library that allows programmers to eliminate certain usages of dynamic reflection by specialization of reflective code to an equivalent implementation using only static techniques. [<img src="https://travis-ci.org/dart-lang/reflectable.svg?branch=master">](https://travis-ci.org/dart-lang/reflectable)
-* [Archive](https://pub.dartlang.org/packages/archive) - Dart library to encode and decode various archive and compression formats, such as Zip and Tar.
-* [serialization](https://github.com/google/serialization.dart) - A serialization library for Dart.[<img src="https://travis-ci.org/google/serialization.dart.svg?branch=master">](https://travis-ci.org/google/serialization.dart)
 * [commons](https://github.com/rikulo/commons) - Common reusable Dart classes and utilities.
 
 #### Validation
