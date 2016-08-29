@@ -148,6 +148,8 @@ want to contribute, please read [contribution](/CONTRIBUTING.md). Thank you !
 * [stagehand](https://github.com/google/stagehand) - Dart project generator - web apps, console apps, servers, and more.  [<img src="https://travis-ci.org/google/stagehand.svg?branch=master">](https://travis-ci.org/google/stagehand)
 * [dart-bridge](https://github.com/dart-bridge/framework) - An extensible end-to-end framework for Dart. [<img src="https://travis-ci.org/dart-bridge/framework.svg?branch=master">](https://travis-ci.org/dart-bridge/framework)
 * [hop](https://github.com/kevmoo/hop) - A Dart framework for reusable tasks. [<img src="https://travis-ci.org/kevmoo/hop.svg?branch=master">](https://travis-ci.org/kevmoo/hop)
+* [mailer](https://github.com/kaisellgren/mailer) - Compose and send emails from Dart. Supports file attachments, HTML emails and multiple transport methods.[<img src="https://travis-ci.org/kaisellgren/mailer.svg?branch=master">](https://travis-ci.org/kaisellgren/mailer)
+
 
 #### Template
 
